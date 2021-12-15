@@ -1,2 +1,2 @@
 # Explicit-Compressible-Euler-Solver
-Explicit Compressible Euler Solver using two flux methods: The Van Leer flux formulation which does not preserve stationary contact discontinuties. AUSM which preserves stationary contact discontinuous but gives rise to non monotonicity
+Explicit Compressible Euler Solver using two flux methods: The Van Leer flux formulation which does not preserve stationary contact discontinuties. AUSM which preserves stationary contact discontinuous but gives rise to non monotonicity. The code to solve Explicit Compressible based case for a bump-based geometry is provided. A ppt is provided to understand and showcase the conclusions, and inferences.
